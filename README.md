@@ -20,16 +20,16 @@ Follow these steps to set up and run the Spring Boot application locally:
 ### Installation
 
 1. Clone the repository:
-- git clone https://github.com/NashTech-Labs/spring_boot_app_on_azure_app.git
+git clone https://github.com/NashTech-Labs/spring_boot_app_on_azure_app.git
 
 2. Navigate to the project directory:
-- cd spring-boot-azure-deployment
+cd spring-boot-azure-deployment
 
 3. Build the application:
--  mvn clean install
+mvn clean install
 
 4. Run the application:
-- mvn spring-boot:run
+mvn spring-boot:run
 
 
 ## Blog Tutorial
