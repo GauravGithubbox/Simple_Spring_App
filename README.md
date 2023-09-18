@@ -1,22 +1,53 @@
-# Simple_Spring_App
-Project Overview
+# Project Name
+
+**Spring Boot Azure Deployment Example**
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Project Overview
+
 This Spring Boot project serves as a comprehensive guide to deploying a Spring Boot application to Azure App Service using GitHub Actions. The project includes a step-by-step blog tutorial and a sample Spring Boot application for practical implementation.
 
-Features
-Detailed deployment guide with GitHub Actions integration.
-Sample Spring Boot application ready for deployment.
-Secure GitHub Secrets integration for sensitive information.
-Getting Started
+## Features
+
+- Detailed deployment guide with GitHub Actions integration.
+- Sample Spring Boot application ready for deployment.
+- Secure GitHub Secrets integration for sensitive information.
+
+## Getting Started
+
 Follow these steps to set up and run the Spring Boot application locally:
 
-Prerequisites
-Java Development Kit (JDK)
-Apache Maven
-GitHub account
-Azure account
-Installation
-Clone the repository: git clone https://github.com/yourusername/spring-boot-azure-deployment.git
-Navigate to the project directory: cd spring-boot-azure-deployment
-Build the application: mvn clean install
-Run the application: mvn spring-boot:run
+### Prerequisites
+
+- Java Development Kit (JDK)
+- Apache Maven
+- GitHub account
+- Azure account
+
+### Installation
+
+1. Clone the repository:
+https://github.com/GauravGithubbox/Simple_Spring_App.git
+
+2. Navigate to the project directory:
+cd spring-boot-azure-deployment
+
+3. Build the application:
+mvn clean install
+
+4. Run the application:
+mvn spring-boot:run
 
